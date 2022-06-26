@@ -1,5 +1,4 @@
 # Rest API
-İşkur & Üsküdar Üniversitesi işbirliğiyle düzenlenen **Nitelikli Bilişim Uzmanı Yetiştirme Programı** kapsamında yapmış olduğum C# Rest API Uygulaması
 
 ### Kullanılan Teknolojiler
 * .NET 4.7.2
